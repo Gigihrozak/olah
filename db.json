@@ -1,65 +1,6 @@
 {
     "sehat": [
-        {
-            "id": "20",
-            "nama": "Push Up",
-            "kal": "513 kcal",
-            "img": "https://cms.sehatq.com/cdn-cgi/image/f=auto,width=890,height=530,fit=cover,background=white,quality=100/public/img/article_img/ini-manfaat-push-up-jika-dilakukan-setiap-hari-1569390529.jpg"
-        },
-        {
-            "id": "19",
-            "nama": "Karate",
-            "kal": "514 kcal",
-            "img": "https://cdn.akurat.co/images/uploads/images/akurat_20181112022809_g26P7D.jpg"
-        },
-        {
-            "id": "18",
-            "nama": "Power Jump",
-            "kal": "514 kcal",
-            "img": "https://i.pinimg.com/736x/04/ce/93/04ce931b234f6adaf1c4861e7c7e56dc.jpg"
-        },
-        {
-            "id": "17",
-            "nama": "Ballet",
-            "kal": "514 kcal",
-            "img": "https://cdn.idntimes.com/content-images/community/2019/07/wbc-giselle-2-2f497f49b0b01a3af4c08f99d545f69b_600x400.jpg"
-        },
-        {
-            "id": "16",
-            "nama": "lari 10km",
-            "kal": "735 kcal",
-            "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUTEhMWFhUWFRgVFRcWFxgVFRgWGBgWFxcVFRgYHSggGB0lHhcWITEiJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGyslHyUtLS0tLS0tLS0tLSstLSstLS0tLS0tLS0tKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIALMBGQMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAAECBAUGBwj/xABIEAABAwIDBAcEBwUGBQUBAAABAAIRAyEEEjEFQVFhBhMicYGR0TJSobEUFSNTksHwB0KC0uEWM3KiwvFDVGKTsiREY4PiF//EABkBAAMBAQEAAAAAAAAAAAAAAAABAgMEBf/EAC0RAAICAQMDAgQGAwAAAAAAAAABAhEDEiExE0FRBHEiYWKhFEJSkbHwFYHh/9oADAMBAAIRAxEAPwD2DEUA32RZOYYJm+7inxFb3T4b0LM4xvnkECD08Za4QqlZrvTcokk2NgN3oovbysmIv06TDdseCem0NnmZValVLb7lcEOEpFIh1zZhO6CoOw4mde9S6tICtjQCNL7oVahhcxg2V11O9lNgjVUpUiXG2VKmCuI0U34dhbEgXn1VyQVl1Kd7Jp2JpIrPpwSFAtVkshRyrWzOiuWpsqOWpi1Fk0Vy1QLFayKJYqsnSVixRyK1kUSxPULSVciJh2drXLzRSxRLU7FVG7hqIHA3kIpF5WBRqOaZBVqjXLvacRBnvWDxs6I5FwLHEZg5x0PZG7vKBQqUz26hBcNBGnhvUsVig4+yIBtw8UTCVWiwYHOJmw9dFdVEztORVrYM1nOec0aNAEH4rPxWyXsF79y6ikXAduATuCbE0hlgCTzuURzNMJYIyV9zhn0lBtIT2rBdY/CU6VMl7QXHSR8ljUMG1xGcgN+J7l0xypo5JYGmihs/Z"
-        },
-        {
-            "id": "15",
-            "nama": "Batminton",
-            "kal": "788 kcal",
-            "img": "https://images.newindianexpress.com/uploads/user/imagelibrary/2018/8/29/w900X450/PTI2_4_2018_000131B.jpg"
-        },
-        {
-            "id": "14",
-            "nama": "Tenis",
-            "kal": "588 kcal",
-            "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUSEhMVFRUVFxcYFRcVFhUVFRUVFxYWFxUVFxUYHiggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGy4lHiUtLS0tLS8wLS0tLi0tLS0tLS0uLS0tLS0tLS0tLS0tLS0tLS0tLy0tLS0tLS0tLS0tLf/AABEIALABHgMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAQIEBQYABwj/xAA/EAABAgMGAgYHBwMFAQEAAAABAAIDESEEBRIxMkEiUQZCYXGRwRNSgZKhsdEUFSNicuHwBzNTQ4KTovHSJP/EABoBAAMBAQEBAAAAAAAAAAAAAAABAwIEBQb/xAAwEQACAgEDAwMDAgUFAAAAAAAAAQIRAxIhUQQTMRRBYSJxoTKRQtHh8PEFUmKBsf/aAAwDAQACEQMRAD8A8zTguwpZLmRzMUJUicAmZOaE8MkU6E1SC1ZbCgtr0BBsuakRxNiBZkR8EpkhyjlSSo781qPkmxAhxkULS9HugtptgD/7cI5Odm4c2t81teRKLlsgvQ63H0bmS01PaOSto98FsF8RzcuEZZHJXrOhcOywCIALoh1Ocau7JZBRrnuMxWmFGhHATXZRnjeuuT6Tp8rXTU39SX+DyuO+ZJ5maSJsvRL/AP6YvE32R+MZ4H0Psd9V5/boDobix4LXNMiDmCq6Wj5/JCSlbI7c1ZsFFXwmVVi3JSyMcEQrUKpsDNEteaFBzCa/SZfksIgoq1+asopoq12axjNzHnJMainJDaqpmKJkTSFHIUmLpCjlZQgbcx3qQ/NRwEV5qqwOXqV9S+w5xQinzTFsjFCJCUpTSmaOLk0vTXJpSNpDi9MLly5BqhC1Nwoi6S5Ez1WgeFcAiySBq1ZmgsFqkSTILU8rNiY9w4UKAzsR3OaAMRkO8DwUW879a"
-        },
-        {
-            "id": "13",
-            "nama": "Sepak Bola",
-            "kal": "588 kcal",
-            "img": "https://statik.tempo.co/data/2019/03/24/id_829154/829154_720.jpg"
-        },
-        {
-            "id": "12",
-            "nama": "Bersepeda",
-            "kal": "514 kcal",
-            "img": "https://m.ayobogor.com/images-bogor/post/articles/2018/05/01/1460/header-cycling_05252017132500.jpg"
-        },
-        {
-            "id": "11",
-            "nama": "Berenang",
-            "kal": "514 kcal",
-            "img": "https://1.bp.blogspot.com/-_ZSoK35KrNQ/XhAWnn6CQkI/AAAAAAAANZQ/n5RH6E21BD0mVD4r3jG7BTRiH35hYirrQCLcBGAsYHQ/s640/Manfaat%2BBerenang%2BBagi%2BPria.png"
-        },
+      
         {
             "id": "10",
             "nama": "Push Up",
